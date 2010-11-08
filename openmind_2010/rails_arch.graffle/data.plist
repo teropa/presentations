@@ -341,7 +341,7 @@
 	<key>HPages</key>
 	<integer>1</integer>
 	<key>ImageCounter</key>
-	<integer>9</integer>
+	<integer>10</integer>
 	<key>ImageLinkBack</key>
 	<array>
 		<dict/>
@@ -389,7 +389,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2010-11-07 16:25:31 +0200</string>
+	<string>2010-11-08 12:38:59 +0200</string>
 	<key>Modifier</key>
 	<string>Tero Parviainen</string>
 	<key>NotesVisible</key>
